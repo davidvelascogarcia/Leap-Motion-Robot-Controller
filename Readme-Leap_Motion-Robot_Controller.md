@@ -31,3 +31,6 @@ Aplicable a:
 Añadidos:
 
 -Control en tiempo real de las cámara conectadas. -Asistente virtual, notificaciones de voz, instrucciones de uso y advertencias de estados de posiciones críticas. -Conexiones embidas con simulador RobotStudio con plugin Leap Motion, y visualizador de diagnostico de Leap Motion (Requiere instalación previa).
+
+Se trata de un conjunto de windows form desarrolladas por separado e intercomunicadas.
+Puede descargar y emplear por separado la sección deseada, si desea un control completo, descargue cada una de las form y extraiga todo en una misma ruta.
