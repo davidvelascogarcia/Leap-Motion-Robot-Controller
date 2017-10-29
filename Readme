@@ -1,36 +1,43 @@
-# Leap_Motion-Robot_Controller
-Módulo de reconocimiento gestual para control de robot en tareas de asistencia
-/*
+## Leap Motion Robot Controller
 
-David Velasco García
+Presentación del uso del módulo en los robot prototipo y robot AMOR (Parque Científico y Tecnológico, Leganés) se realiza la presentación con el uso de ambos robot, operativos en tareas asistenciales, mediante el uso del módulo.Control 6 g.d.l, control telemático e inalámbrico, con incorporación simultanea de control por voz.
+Movimiento cartesiano X, Y, Z, así como movimiento rotacional Yaw, Pitch, Roll, junto al control de estado de la pinza en cuestión.
 
-Grado en Ingeniería en Tecnologías Industriales
+![](https://lh3.googleusercontent.com/dtyw1scpNiuBd87cPYhppHJS0Zyc6I07M88B2-K7aGxYgpquwL9oOyliU_XxuRS0PzHtvo88_Q=w640-h360-p)
 
-Intensificación en Automática y Electrónica.
+Figura 1. Control de robot
 
-TFG
+Asistencia mediante notificaciones de control e instrucciones de uso.
+Modalidades de funcionamiento:
+1.Control tiempo real cartesiano.
+2.Control tiempo real velocidades de inclinación.
+3.Control tiempo real campo de velocidades de inclinación.
+4.Control por voz.
+5.Simultanea de control por voz, con un método gestual.
++info
 
-Módulo de reconocimiento gestual para control de robot en tareas de asistencia
+Video:
 
-Universidad Carlos III de Madrid
+https://www.youtube.com/watch?time_continue=2&v=DU1mztLFsmE
 
-Tutor
++info:
 
-Edwin Daniel Oña Simbaña
+Acceso a descarga de la aplicación:
 
-*/
+https://github.com/davidvelascogarcia
 
-El siguiente proyecto consta de un software de tipo interfaz gráfica, para el control de robot vía gestual a partir del dispositivo Leap Motion.
++info
 
-Modalidades de control: -Control coordenadas cartesianas 3 DOF. -Control coordenadas cartesianas + garra 4 DOF -Control YAW, PITCH, ROLL, + control de garra 4 DOF. -Control coordenadas cartesianas + inclinaciones de la mano YAW, PITCH, ROLL, más control de estado de apertura y cerrado 7 DOF. -Control incremental e incremental telematico 4 DOF. -Control por voz 4 DOF. -Modo balance con zona muerta 7 DOF. -Modo campo de velocidades con zona muerta 7 DOF. -Fusión control por voz + método de control gestual a elegir.
+Acceso a descarga de la Memoria:
 
-Aplicable a:
+https://www.researchgate.net/publication/319902393_Modulo_de_reconocimiento_gestual_para_control_de_robot_en_tareas_de_asistencia
 
--Robot genérico -Robot industrial -Robot Arduino por servomotores 6 DOF.
+Universidad Carlos III de Madrid.
+Escuela Politécnica Superior.
 
-Añadidos:
+Grado en Ingeniería en Tecnologías Industriales.
+Intensificación en Electrónica Industrial y Automática.
+Trabajo de fin de grado.
+Módulo de reconocimiento gestual para el control de robot en tareas de asistencia.
 
--Control en tiempo real de las cámara conectadas. -Asistente virtual, notificaciones de voz, instrucciones de uso y advertencias de estados de posiciones críticas. -Conexiones embidas con simulador RobotStudio con plugin Leap Motion, y visualizador de diagnostico de Leap Motion (Requiere instalación previa).
-
-Se trata de un conjunto de windows form desarrolladas por separado e intercomunicadas.
-Puede descargar y emplear por separado la sección deseada, si desea un control completo, descargue cada una de las form y extraiga todo en una misma ruta.
+David Velasco García.
