@@ -14,6 +14,7 @@ Modalidades de funcionamiento:
 3.Control tiempo real campo de velocidades de inclinación.
 4.Control por voz.
 5.Simultanea de control por voz, con un método gestual.
+
 +info
 
 Video:
