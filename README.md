@@ -21,11 +21,12 @@ Figura 1. Control de robot
 
 Asistencia mediante notificaciones de control e instrucciones de uso.
 Modalidades de funcionamiento:
-1.Control tiempo real cartesiano.
-2.Control tiempo real velocidades de inclinación.
-3.Control tiempo real campo de velocidades de inclinación.
-4.Control por voz.
-5.Simultanea de control por voz, con un método gestual.
+
+1. Control tiempo real cartesiano.
+2. Control tiempo real velocidades de inclinación.
+3. Control tiempo real campo de velocidades de inclinación.
+4. Control por voz.
+5. Simultanea de control por voz, con un método gestual.
 
 **+info:**
 
