@@ -13,6 +13,15 @@ Movimiento cartesiano X, Y, Z, así como movimiento rotacional Yaw, Pitch, Roll,
 
 Figura 1. Control de robot
 
+*Universidad Carlos III de Madrid.
+Escuela Politécnica Superior.*
+
+*Grado en Ingeniería en Tecnologías Industriales.
+Intensificación en Electrónica Industrial y Automática.*
+**Trabajo de fin de grado.
+Módulo de reconocimiento gestual para el control de robot en tareas de asistencia.**
+
+*David Velasco García*
 
 ## Modos de control
 
@@ -32,15 +41,6 @@ Modalidades de funcionamiento:
 
 [Descarga de la Memoria](https://www.researchgate.net/publication/319902393_Modulo_de_reconocimiento_gestual_para_control_de_robot_en_tareas_de_asistencia)
 
-*Universidad Carlos III de Madrid.
-Escuela Politécnica Superior.*
-
-*Grado en Ingeniería en Tecnologías Industriales.
-Intensificación en Electrónica Industrial y Automática.*
-***Trabajo de fin de grado.
-Módulo de reconocimiento gestual para el control de robot en tareas de asistencia.***
-
-*David Velasco García.*
 
 ## Enlaces de interés
 
