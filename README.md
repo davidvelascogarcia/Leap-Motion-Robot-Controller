@@ -1,13 +1,10 @@
 ## Leap Motion: Robot Controller
 
-## Index
-	1. Descripción
-	2. Modos de control
-	3. Referencias
+- [Introducción](#introducción)
+- [Modos de control](#modos-de-control)
+- [Enlaces de interés](#enlaces-de-interés)
 
-## Contenidos
-
-	1. Descripción
+## Introducción
 
 Presentación del uso del módulo en los robot prototipo y robot AMOR (Parque Científico y Tecnológico, Leganés) se realiza la presentación con el uso de ambos robot, operativos en tareas asistenciales, mediante el uso del módulo.Control 6 g.d.l, control telemático e inalámbrico, con incorporación simultanea de control por voz.
 Movimiento cartesiano X, Y, Z, así como movimiento rotacional Yaw, Pitch, Roll, junto al control de estado de la pinza en cuestión.
@@ -17,25 +14,23 @@ Movimiento cartesiano X, Y, Z, así como movimiento rotacional Yaw, Pitch, Roll,
 Figura 1. Control de robot
 
 
-	2. Modos de control
+## Modos de control
 
 Asistencia mediante notificaciones de control e instrucciones de uso.
 Modalidades de funcionamiento:
 
-1. Control tiempo real cartesiano.
-2. Control tiempo real velocidades de inclinación.
-3. Control tiempo real campo de velocidades de inclinación.
-4. Control por voz.
-5. Simultanea de control por voz, con un método gestual.
-
-**+info:**
-
-[Video](https://www.youtube.com/watch?time_continue=2&v=DU1mztLFsmE)
+- Control tiempo real cartesiano.
+- Control tiempo real velocidades de inclinación.
+- Control tiempo real campo de velocidades de inclinación.
+- Control por voz.
+- Simultanea de control por voz, con un método gestual.
 
 
-[Acceso a descarga de la aplicación](https://github.com/davidvelascogarcia)
+[Video de funcionamiento](https://www.youtube.com/watch?time_continue=2&v=DU1mztLFsmE)
 
-[Acceso a descarga de la Memoria](https://www.researchgate.net/publication/319902393_Modulo_de_reconocimiento_gestual_para_control_de_robot_en_tareas_de_asistencia)
+[Descarga de la aplicación](https://github.com/davidvelascogarcia)
+
+[Descarga de la Memoria](https://www.researchgate.net/publication/319902393_Modulo_de_reconocimiento_gestual_para_control_de_robot_en_tareas_de_asistencia)
 
 *Universidad Carlos III de Madrid.
 Escuela Politécnica Superior.*
@@ -47,6 +42,10 @@ Módulo de reconocimiento gestual para el control de robot en tareas de asistenc
 
 *David Velasco García.*
 
-	3. Referencias
+## Enlaces de interés
 
-***Proximamente...***
+[Video de funcionamiento](https://www.youtube.com/watch?time_continue=2&v=DU1mztLFsmE)
+
+[Descarga de la aplicación](https://github.com/davidvelascogarcia)
+
+[Descarga de la Memoria](https://www.researchgate.net/publication/319902393_Modulo_de_reconocimiento_gestual_para_control_de_robot_en_tareas_de_asistencia)
