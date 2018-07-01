@@ -1,4 +1,5 @@
 # Controlador Windows: Robot 6 DOF Leap Motion
+[![Build Status](https://travis-ci.org/davidvelascogarcia/Leap-Motion-Robot-Controller.svg?branch=master)](https://travis-ci.org/davidvelascogarcia/Leap-Motion-Robot-Controller)
 
 - [Controlador Windows](#controlador-arduino)
 - [Listado de aplicaciones](#listado-de-aplicaciones)

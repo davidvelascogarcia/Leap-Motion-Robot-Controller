@@ -1,4 +1,5 @@
 ## Leap Motion: Robot Controller
+[![Build Status](https://travis-ci.org/davidvelascogarcia/Leap-Motion-Robot-Controller.svg?branch=master)](https://travis-ci.org/davidvelascogarcia/Leap-Motion-Robot-Controller)
 
 - [Introducción](#introducción)
 - [Modos de control](#modos-de-control)
