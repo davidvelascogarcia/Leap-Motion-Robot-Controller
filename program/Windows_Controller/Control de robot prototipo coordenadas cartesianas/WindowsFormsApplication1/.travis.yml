@@ -1,9 +1,0 @@
-# Integración continua Travis CI
-
-# Lenguaje de programación
-
-language: csharp
-
-# Solución
-
-solution: WindowsFormsApplication1.sln
