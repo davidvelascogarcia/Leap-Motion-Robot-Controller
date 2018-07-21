@@ -6,5 +6,5 @@ language: csharp
 
 # Solución
 
-solution: "./programs/Windows_Controller/Control de robot prototipo coordenadas cartesianas/WindowsFormsApplication1/WindowsFormsApplication1.sln"
+solution: "./programs/windows/Windows_Controller/Control de robot prototipo coordenadas cartesianas/WindowsFormsApplication1/WindowsFormsApplication1.sln"
 
