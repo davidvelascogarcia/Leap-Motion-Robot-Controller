@@ -5,8 +5,8 @@
 
 ## Introducción
 
-Para acceder a la documentación  del controlador, consulte [Memoria proyecto](https://github.com/davidvelascogarcia/Leap_Motion-Robot_Controller/blob/master/docs/DAVID%20VELASCO%20GARCIA%20-%20Memoria%20TFG.pdf).
+Se adjunta la documentación  del controlador en, [./tesis](./tesis).
 
 ## Enlaces de interés
 
-[Leap Motion Robot Controller](https://github.com/davidvelascogarcia/Leap_Motion-Robot_Controller)
+[leapmotionRobotController](https://github.com/davidvelascogarcia/leapmotionRobotController)

@@ -1,5 +1,6 @@
-# Controlador Windows: Robot 6 DOF Leap Motion
-[![Build Status](https://travis-ci.org/davidvelascogarcia/Leap-Motion-Robot-Controller.svg?branch=master)](https://travis-ci.org/davidvelascogarcia/Leap-Motion-Robot-Controller)
+# leapmotionRobotController: GUI
+
+[![Build Status](https://travis-ci.org/davidvelascogarcia/leapmotionRobotController.svg?branch=develop)](https://travis-ci.org/davidvelascogarcia/leapmotionRobotController)
 
 - [Controlador Windows](#controlador-arduino)
 - [Listado de aplicaciones](#listado-de-aplicaciones)
@@ -30,4 +31,4 @@ Se adjunta el listado de aplicaciones:
 
 ## Enlaces de interés
 
-[Leap Motion Robot Controller](https://github.com/davidvelascogarcia/Leap_Motion-Robot_Controller)
+[leapmotionRobotController](https://github.com/davidvelascogarcia/leapmotionRobotController)
