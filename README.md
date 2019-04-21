@@ -10,7 +10,7 @@
 
 ## Introducción
 
-`leapmotionRobotController`, implementación de controlador Leap Motion con publicación de resultados vía YARP, control de robot vía YARP y control serial port. Añadido detección de movimiento, GUI, asistente virtual, control por voz. Implementación de módulo en los robot prototipo y robot A.M.O.R (Parque Científico y Tecnológico, Leganés) se realiza la presentación con el uso de ambos robot, operativos en tareas asistenciales, mediante el uso del módulo. Control 6 g.d.l, control telemático e inalámbrico, con incorporación simultanea de control por voz.
+`leapmotionRobotController`, implementación de controlador Leap Motion con publicación de resultados vía `YARP`, control de robot vía `YARP` y control `serial port`. Añadido detección de movimiento, `GUI`, asistente virtual, control por voz. Implementación de módulo en los robot prototipo y robot A.M.O.R (Parque Científico y Tecnológico, Leganés) se realiza la presentación con el uso de ambos robot, operativos en tareas asistenciales, mediante el uso del módulo. Control 6 g.d.l, control telemático e inalámbrico, con incorporación simultanea de control por voz.
 Movimiento cartesiano X, Y, Z, así como movimiento rotacional Yaw, Pitch, Roll, junto al control de estado de la pinza en cuestión.
 
 ![](https://lh3.googleusercontent.com/dtyw1scpNiuBd87cPYhppHJS0Zyc6I07M88B2-K7aGxYgpquwL9oOyliU_XxuRS0PzHtvo88_Q=w640-h360-p)
