@@ -1,6 +1,6 @@
 # Leap Motion: Robot Controller (C# API)
 
-[![Build Status](https://travis-ci.org/davidvelascogarcia/leapmotionRobotController.svg?branch=develop)](https://travis-ci.org/davidvelascogarcia/leapmotionRobotController)
+[![leapmotionRobotController Homepage](https://img.shields.io/badge/leapmotionRobotController-develop-orange.svg)](https://github.com/davidvelascogarcia/leapmotionRobotController/tree/develop/docs) [![Latest Release](https://img.shields.io/github/tag/davidvelascogarcia/tensorflow-cpp-examples.svg?label=Latest%20Release)](https://github.com/davidvelascogarcia/leapmotionRobotController/tags) [![Build Status](https://travis-ci.org/davidvelascogarcia/leapmotionRobotController.svg?branch=develop)](https://travis-ci.org/davidvelascogarcia/leapmotionRobotController)
 
 - [Introducción](#introducción)
 - [Listado de programas](#listado-de-programas)
@@ -57,6 +57,12 @@ Listado de controladores adjuntos:
 - Controlador Arduino
 - Controlador Windows
 - Controlador YARP
+
+## Status
+
+[![Build Status](https://travis-ci.org/davidvelascogarcia/leapmotionRobotController.svg?branch=develop)](https://travis-ci.org/davidvelascogarcia/leapmotionRobotController)
+
+[![Issues](https://img.shields.io/github/issues/davidvelascogarcia/leapmotionRobotController.svg?label=Issues)](https://github.com/davidvelascogarcia/leapmotionRobotController/issues)
 
 
 ## Enlaces de interés
